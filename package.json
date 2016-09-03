@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jntr06/turn.js.git"
+    "url": "git+https://github.com/BarunH/turn.js.git"
   },
   "keywords": [
     "turn",
@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jntr06/turn.js/issues"
+    "url": "https://github.com/BarunH/turn.js/issues"
   },
-  "homepage": "https://github.com/jntr06/turn.js#readme"
+  "homepage": "https://github.com/BarunH/turn.js#readme"
 }
