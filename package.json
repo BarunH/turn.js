@@ -1,0 +1,23 @@
+{
+  "name": "turn.js",
+  "version": "1.0.0",
+  "description": "The page flip effect for HTML5 http://www.turnjs.com",
+  "main": "turn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jntr06/turn.js.git"
+  },
+  "keywords": [
+    "turn",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jntr06/turn.js/issues"
+  },
+  "homepage": "https://github.com/jntr06/turn.js#readme"
+}
